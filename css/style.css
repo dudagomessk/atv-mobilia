@@ -95,3 +95,50 @@ section.produtos ul li h3 {
   color: #151875;
   margin: 29px 0 2.7vw 0;
 }
+section.invite {
+  padding: 5vw 30vw;
+  background: url(../src/images/back-section-update.png);
+  background-position: center;
+  text-align: center;
+}
+section.invite h2 {
+  font-size: 2.2rem;
+  font-weight: bold;
+  color: #151875;
+  margin: 2vw;
+}
+section.invite p button{
+  background-color: #FB2E86;
+  color: white;
+font-size: 1.1rem;
+padding:10px 20px 10px 20px;
+border-radius: 7%;
+margin: 1.5vw 0 0;
+}
+
+/* FOOTER ==============================*/
+footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 3vw 10vw;
+  background-color: #EEEFFB ;
+}
+footer div h2 {
+font-size: 1.8rem;
+font-weight: bolder;
+padding: 10px 0;
+}
+footer div p {
+  color: #8A8FB9;
+  margin: 10px 0 10px;
+}
+footer div h3 {
+  font-size: 1.3rem;
+font-weight: bolder;
+padding: 10px 0 ;
+}
+footer div nav ul li {
+  color: #8A8FB9;
+  margin: 10px 0 10px;
+  line-height: 2rem;
+}
